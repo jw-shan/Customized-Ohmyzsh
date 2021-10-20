@@ -3,12 +3,12 @@
 ## 使用方法
 
 ```bash
-git clone https://github.com/jw-shan/Customized-Ohmyzsh.git ~/.oh-my-sh
+git clone https://github.com/jw-shan/Customized-Ohmyzsh.git ~/.oh-my-zsh
 cp ~/.oh-my-zsh/templates/zshrc-custom ~/.zshrc
 ```
 
 or use SSH
 ```bash
-git clone git@github.com:jw-shan/Customized-Ohmyzsh.git ~/.oh-my-sh
+git clone git@github.com:jw-shan/Customized-Ohmyzsh.git ~/.oh-my-zsh
 cp ~/.oh-my-zsh/templates/zshrc-custom ~/.zshrc
 ```
